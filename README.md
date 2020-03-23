@@ -1,4 +1,4 @@
-# Methods in Ruby
+ # Methods in Ruby
 
 ## Overview
 
@@ -286,3 +286,10 @@ or a class.  But remember that when you write it in your code, it should be
 `greeting` and not `#greeting`.
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/ruby-methods-readme' title='Methods in Ruby'>Methods in Ruby</a> on Learn.co and start learning to code for free.</p>
+phrase = "Hello World"
+
+defined
+
+say_hello_world_ten_times
+
+Phrase = "Hello World"
